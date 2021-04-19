@@ -1,0 +1,8 @@
+Throttle: W
+Shift up: Shift
+Shift Down: Alt
+Gear 1: Drive
+Gear 2: Reverse
+Left Brake: A
+Right Brake: D
+Your Incharge of Extra Details :)
